@@ -14,3 +14,5 @@ This repository contains code to evaluate the performance of several conversatio
   2. Generated text for certain prompts.
   3. calculated Average Evaluation Score using metrics such as BLEU, ROUGE, response length.
   4. Applied Topsis on Evaluation Scores to select best model.
+
+![image](https://github.com/kkamal2003/Text_conversation_Topsis/assets/126082752/de943e6c-9d7a-44ce-95a6-54021ff7443f)
